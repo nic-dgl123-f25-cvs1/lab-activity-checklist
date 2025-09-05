@@ -1,4 +1,4 @@
-# Week 1 - Activity Checklist #1
+# Week 1 - Activity Checklist
 
 ##OBJECTIVE
 To provide you with a tool to track your progress in completing required activities throughout the semester.
